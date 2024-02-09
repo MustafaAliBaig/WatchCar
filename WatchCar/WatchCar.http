@@ -1,0 +1,6 @@
+@WatchCar_HostAddress = http://localhost:5090
+
+GET {{WatchCar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
